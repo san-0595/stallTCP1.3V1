@@ -239,7 +239,7 @@ const DEFAULT_SUB_DOMAIN = "sub.cmliussss.net";  // 真实订阅源（用于聚�
 <img width="640" height="459" alt="image" src="https://github.com/user-attachments/assets/f88ad346-30aa-41ef-9f7c-deb2453afbfe" />
 
 
-snippets部署结束
+**snippets部署结束**
 
 
 ------------------------------------------------------------------------
